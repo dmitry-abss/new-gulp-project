@@ -1,0 +1,2 @@
+.header{background-color:teal;text-align:center;color:#fff;font-size:1.8rem;padding:2rem 0;display:-webkit-box;display:-ms-flexbox;display:flex;gap:1rem}@media screen and (min-width:768px){.header{font-size:2rem}}*{-webkit-box-sizing:border-box;box-sizing:border-box}@media (-webkit-min-device-pixel-ratio:2),(min-resolution:2dppx){.image{background-image:url(image@2x.png)}}.footer{background-color:#f0f8ff;color:teal;font-size:1.5rem;padding:2rem 0;text-align:center}@media screen and (min-width:768px){.footer{font-size:2rem}}
+/*# sourceMappingURL=main.css.map */
